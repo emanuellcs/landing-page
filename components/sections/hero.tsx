@@ -14,8 +14,8 @@ import {
 const typingStrings = [
   "Full-Stack & Backend Engineer.",
   "Data Scientist & ML Engineer.",
-  "TypeScript, Java, Python & Go developer.",
-  "Spring Boot, NestJS & React practitioner.",
+  "TypeScript, C#, Python & Go developer.",
+  "ASP.NET Core, NestJS & React practitioner.",
   "Cloud-Native systems builder.",
   "Clean Architecture & DDD advocate.",
   "WebGL, WebGPU & 3D Graphics enthusiast.",

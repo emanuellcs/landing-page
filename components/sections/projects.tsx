@@ -32,7 +32,7 @@ const platforms = [
     bgColor: "bg-gray-800",
     tags: [
       "TypeScript",
-      "Java / Spring Boot",
+      "C# / ASP.NET Core",
       "Python",
       "Go",
       "C/C++",

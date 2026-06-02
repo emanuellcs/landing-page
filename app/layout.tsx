@@ -12,11 +12,11 @@ export const metadata: Metadata = {
   title:
     "Emanuel Lázaro | Full-Stack Software Engineer, Data Scientist & AI/ML Engineer",
   description:
-    "Emanuel Lázaro is a Full-Stack Software Engineer and Data Scientist specializing in TypeScript, Java, Python, and Go. Double Degree student in Software Engineering & Computer Science, building scalable cloud-native systems and Deep Learning models.",
+    "Emanuel Lázaro is a Full-Stack Software Engineer and Data Scientist specializing in TypeScript, C#, Python, and Go. Double Degree student in Software Engineering & Computer Science, building scalable cloud-native systems and Deep Learning models.",
   keywords: [
     "Full-Stack Engineer",
     "Backend Developer",
-    "Java Spring Boot",
+    "ASP.NET Core",
     "Next.js Portfolio",
     "Data Science",
     "WebGL",
@@ -36,7 +36,7 @@ export const metadata: Metadata = {
     title:
       "Emanuel Lázaro | Full-Stack Software Engineer, Data Scientist & AI/ML Engineer",
     description:
-      "Full-Stack Software Engineer and Data Scientist specializing in TypeScript, Java, Python, and Go. Building scalable cloud-native systems and Deep Learning models.",
+      "Full-Stack Software Engineer and Data Scientist specializing in TypeScript, C#, Python, and Go. Building scalable cloud-native systems and Deep Learning models.",
     siteName: "Emanuel Lázaro's Portfolio",
     images: [
       {
@@ -52,7 +52,7 @@ export const metadata: Metadata = {
     title:
       "Emanuel Lázaro | Full-Stack Software Engineer, Data Scientist & AI/ML Engineer",
     description:
-      "Full-Stack Software Engineer and Data Scientist specializing in TypeScript, Java, Python, and Go.",
+      "Full-Stack Software Engineer and Data Scientist specializing in TypeScript, C#, Python, and Go.",
     images: ["https://github.com/emanuellcs.png"],
     creator: "@emanuellcs",
   },
@@ -93,10 +93,10 @@ const jsonLd = {
     "Data Science",
     "AI/ML",
     "TypeScript",
-    "Java",
+    "C#",
     "Python",
     "Go",
-    "Spring Boot",
+    "ASP.NET Core",
     "Next.js",
     "Cloud Native",
     "Deep Learning",

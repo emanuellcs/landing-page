@@ -18,9 +18,9 @@ const highlights = [
   },
   {
     icon: Coffee,
-    title: "Java / Spring Backend",
+    title: ".NET / ASP.NET Backend",
     description:
-      "Spring Boot, Spring Cloud, JPA/Hibernate, Spring Security, and Maven/Gradle.",
+      "ASP.NET Core, Entity Framework Core, ASP.NET Core Identity, and NuGet/.NET CLI.",
   },
   {
     icon: Cloud,
@@ -94,8 +94,8 @@ export function About() {
               <p>
                 I operate across multiple ecosystems: the{" "}
                 <strong>TypeScript ecosystem</strong> (React, Next.js, Node.js,
-                NestJS) for modern web, the <strong>Java ecosystem</strong>{" "}
-                (Spring Boot, Spring Cloud, JPA/Hibernate) for enterprise
+                NestJS) for modern web, the <strong>.NET ecosystem</strong>{" "}
+                (ASP.NET Core, Entity Framework Core) for enterprise
                 backends, and <strong>Python and Go</strong> for data workflows
                 and automation. Outside of my primary professional focus, I'm an
                 avid hobbyist in low-level systems and game engine development

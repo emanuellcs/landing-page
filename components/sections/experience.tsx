@@ -49,8 +49,8 @@ const experiences = [
     description:
       "Delivering production-grade full-stack solutions with a focus on performance, security, and maintainability using Clean Architecture and Domain-Driven Design.",
     achievements: [
-      "Architecting RESTful, GraphQL, and gRPC APIs using Node.js (NestJS), Spring Boot (Java), and Go",
-      "Building enterprise Java backends with Spring Security (JWT/OAuth2), Spring Data JPA/Hibernate, and Spring Cloud microservices",
+      "Architecting RESTful, GraphQL, and gRPC APIs using Node.js (NestJS), ASP.NET Core (C#), and Go",
+      "Building enterprise .NET backends with ASP.NET Core Identity (JWT/OAuth2), Entity Framework Core, and .NET Microservices",
       "Deploying containerized services to AWS and multi-cloud environments using Docker, Kubernetes, and Terraform",
       "Building responsive frontend interfaces with React, Next.js, and Tailwind CSS",
       "Implementing event-driven architectures using Apache Kafka and RabbitMQ for asynchronous workflows",

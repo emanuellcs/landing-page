@@ -16,23 +16,23 @@ const skillCategories = [
     skills: [
       { name: "TypeScript", icon: "📘" },
       { name: "JavaScript", icon: "⚡" },
-      { name: "Java", icon: "☕" },
+      { name: "C#", icon: "🎯" },
       { name: "Python", icon: "🐍" },
       { name: "Go", icon: "🐹" },
       { name: "SQL", icon: "💾" },
     ],
   },
   {
-    title: "Java Ecosystem",
+    title: ".NET / ASP.NET Ecosystem",
     icon: Coffee,
     skills: [
-      { name: "Spring Boot", icon: "🌿" },
-      { name: "Spring Security", icon: "🔒" },
-      { name: "Spring Cloud", icon: "☁️" },
-      { name: "Hibernate/JPA", icon: "🗄️" },
-      { name: "Maven", icon: "📦" },
-      { name: "Gradle", icon: "🐘" },
-      { name: "JUnit 5", icon: "🧪" },
+      { name: "ASP.NET Core", icon: "🚀" },
+      { name: "ASP.NET Core Identity", icon: "🔒" },
+      { name: ".NET Microservices", icon: "☁️" },
+      { name: "Entity Framework Core", icon: "🗄️" },
+      { name: "NuGet", icon: "📦" },
+      { name: ".NET CLI", icon: "💻" },
+      { name: "xUnit", icon: "🧪" },
     ],
   },
   {
@@ -127,8 +127,8 @@ export function Skills() {
           <div className="w-20 h-1 bg-teal-400 mx-auto rounded-full" />
           <p className="text-xl text-gray-300 mt-6 max-w-3xl mx-auto">
             My stacks span the <strong>TypeScript ecosystem</strong> (Node.js,
-            React, Next.js, NestJS), the <strong>Java ecosystem</strong> (Spring
-            Boot, Spring Cloud, JPA), and <strong>Python and Go</strong> for
+            React, Next.js, NestJS), the <strong>.NET ecosystem</strong> (ASP.NET
+            Core, Entity Framework Core), and <strong>Python and Go</strong> for
             automation, data workflows, and concurrency-critical services.
           </p>
         </div>
